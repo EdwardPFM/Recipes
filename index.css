@@ -1,0 +1,45 @@
+.main-title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(241, 228, 210);
+    font-size: 120px;
+    padding: 0px;
+    margin: auto;
+    
+}
+
+body{
+    margin: 0px;
+}
+
+.header-background{
+    background-color: rgb(32, 30, 30);
+    padding: 100px;
+    margin: 0px;
+
+}
+
+.navigation-bar{
+    text-align: center;
+}
+
+.nav a:link{
+    text-decoration: none;
+    color: white;
+}
+.nav a:visited{
+    color: white;
+    text-decoration: none;
+}
+.nav a{
+    margin: 40px;
+}
+
+.nav{
+    font-size: large;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    top: 50px
+}
+
