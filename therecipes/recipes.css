@@ -1,0 +1,95 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    background-color: #000000;
+}
+.page-title{
+    border: 1px solid rgb(247, 236, 173);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(247, 236, 173);
+    font-size: 50px;
+}
+.div-for-title, .desc, .ing{
+    text-align: center;
+}
+
+.background-img{
+    background-image: url(../images/lasagna-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #faebd7;
+    border-radius: 5px;
+    
+}
+
+.description, .p-description{
+    text-align: center;
+}
+.p-description{
+    font-size: 25px;
+    color: #faebd7;
+    padding: 20px;
+}
+.description-box{
+    background-color: #000000;
+    margin: 0px;
+}
+.description, .ingredients{
+    font-size: 40px;
+    border: 1px solid rgb(247, 236, 173);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(247, 236, 173);
+}
+
+.ingredients-and-procedure-background{
+    background-color: #000000;
+    margin: 0px;
+    padding: 100px;
+}
+.ingredients-and-procedure-inner-background{
+    background-color: #faebd7;
+    border-radius: 20px;
+}
+
+h3, ul, ol{
+    margin-left: 200px;
+    color:#000000;
+    font-size: 25px;
+}
+
+.ingredients-and-procedures{
+    padding: 10px;
+}
+.ingredients-and-procedures .procedure-list li{
+    width: 90%;
+}
+
+.footer-link{
+    text-align: center;
+}
+.footer-link a:link{
+    text-decoration: none;
+    color: #faebd7;
+    font-weight: bold;
+}
+.footer-link a:hover{
+    text-decoration: underline;
+}
+.footer-link a:active{
+    text-decoration: none;
+    color: #faebd7;
+    font-weight: bold;
+}
+.footer-link a:visited{
+    color: #faebd7;
+}
