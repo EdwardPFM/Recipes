@@ -21,6 +21,18 @@ body{
     background-position: center;
     background-size: cover;
 }
+.background-img-spaghetti{
+    background-image: url(../images/spaghetti-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.background-img-pizza{
+    background-image: url(../images/pizza-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 img{
     display: block;
     margin-left: auto;
